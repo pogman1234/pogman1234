@@ -1,4 +1,4 @@
-#Hello, my name is Nicholas.
+# Hello, my name is Nicholas.
 ### I go by pogman online because pog stands for personnel other than grunt, which is a military term.
 ### It just means that I wasn't infantry while I was in the Marine Corps.
 ### Eventually this will be my github to work on personal projects
