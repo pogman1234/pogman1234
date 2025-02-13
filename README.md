@@ -20,7 +20,7 @@ Hi there! 👋 I'm Nicholas, a Cloud Engineer with a background in Site Reliabil
 
 **Get in Touch:**
 
-*   [LinkedIn](www.linkedin.com/in/nicholas-carson-2115501ba)
+*   [LinkedIn](https://www.linkedin.com/in/nicholas-carson-2115501ba)
 *   [Email](mailto:nicholaschristiancarson@gmail.com)
 
 Feel free to browse my repositories to see my work!
