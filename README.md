@@ -21,7 +21,7 @@ Hi there! 👋 I'm Nicholas, a Cloud Engineer with a background in Site Reliabil
 **Get in Touch:**
 
 *   [LinkedIn](www.linkedin.com/in/nicholas-carson-2115501ba)
-*   [Email](nicholaschristiancarson@gmail.com)
+*   [Email](mailto:nicholaschristiancarson@gmail.com)
 
 Feel free to browse my repositories to see my work!
 I have been working on a music bot frontend and backend, which is becoming a personal website, with the backend written in Python. These are currently hosted in GCP Cloud Run and is one of my main personal projects right now.
